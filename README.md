@@ -31,7 +31,8 @@ Airline Ticket Booking System
 
 Скриншоты
 
----
+<img width="868" height="395" alt="image" src="https://github.com/user-attachments/assets/794ad4b1-0926-4a69-80e2-bb13c8757c97" />
+
 
 Структура базы данных
 - users
