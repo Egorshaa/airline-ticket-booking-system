@@ -66,6 +66,8 @@ Airline Ticket Booking System
 - logs
 - news
 - support_tickets
+- support_templates
+- payments
 
 Автор
 
